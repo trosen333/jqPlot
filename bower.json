@@ -1,6 +1,6 @@
 {
   "name": "jqPlot",
-  "version": "1.0.8.1250",
+  "version": "1.0.8-r1250",
   "main": [
     "dist/jquery.jqplot.min.js",
     "dist/jquery.jqplot.min.css"
