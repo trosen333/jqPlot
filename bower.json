@@ -3,7 +3,10 @@
   "version": "1.0.8-r1250",
   "main": [
     "dist/jquery.jqplot.min.js",
-    "dist/jquery.jqplot.min.css"
+    "dist/jquery.jqplot.min.css",
+    "dist/plugins/jqplot.dateAxisRenderer.min.js",
+    "dist/plugins/jqplot.highlighter.min.js",
+    "dist/plugins/jqplot.cursor.min.js"
   ],
   "dependencies": {
     "jquery": ">=1.9.1"
