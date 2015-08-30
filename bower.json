@@ -10,9 +10,5 @@
   ],
   "dependencies": {
     "jquery": ">=1.9.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/trosen333/jqPlot.git"
   }
 }
