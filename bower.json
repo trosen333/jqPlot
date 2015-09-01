@@ -1,5 +1,5 @@
 {
-  "name": "jqPlot",
+  "name": "tali",
   "version": "1.0.8-r1250",
   "main": [
     "dist/jquery.jqplot.min.js",
