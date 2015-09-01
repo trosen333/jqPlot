@@ -4,6 +4,7 @@
   "main": [
     "dist/jquery.jqplot.min.js",
     "dist/jquery.jqplot.min.css",
+    "dist/usage.txt",
     "dist/plugins/jqplot.dateAxisRenderer.min.js",
     "dist/plugins/jqplot.highlighter.min.js",
     "dist/plugins/jqplot.cursor.min.js"
